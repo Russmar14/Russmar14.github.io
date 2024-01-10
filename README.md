@@ -5,9 +5,9 @@ Full, up to date version found here: https://scholln.github.io/RealHomePrice/
 
 RealHomePrice is a tool for homeowners and those looking to get into the housing market. This package is aimed at providing accurate home pricing information to those at the consumer level without access to information that a real estate agent would have or a housing broker. The factors needed for the assessment are the following:
 
-number of bedrooms in the home
-number of bathrooms in the home
-and size of the home
+* number of bedrooms in the home
+* number of bathrooms in the home
+* size of the home
 
 We use both a standard linear model and a neural net for advanced analysis for the computation of the home price. We provide both answers as we believe multiple opinions or answers are optimal in the decsion making process. 
 
