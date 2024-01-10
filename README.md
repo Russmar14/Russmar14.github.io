@@ -1,6 +1,6 @@
-# Russmar14.github.io - Russell Marvin's Data Science Portfolio
+# Russell Marvin's Data Science Portfolio (https://russmar14.github.io)
 
-## Project 1: Real Home Price
+## Project 1: [Real Home Price](https://github.com/Russmar14/RealHomePrice)
 Full, up to date version found here: https://scholln.github.io/RealHomePrice/
 
 RealHomePrice is a tool for homeowners and those looking to get into the housing market. This package is aimed at providing accurate home pricing information to those at the consumer level without access to information that a real estate agent would have or a housing broker. The factors needed for the assessment are the following:
@@ -11,7 +11,7 @@ and size of the home
 
 We use both a standard linear model and a neural net for advanced analysis for the computation of the home price. We provide both answers as we believe multiple opinions or answers are optimal in the decsion making process. 
 
-## Project 2: nba_api_intro
+## Project 2: [nba_api_intro](https://github.com/Russmar14/nba_api_intro)
 
 My introduction to nba_api, an api found here: https://github.com/swar/nba_api.
 
@@ -25,7 +25,7 @@ My introduction to nba_api, an api found here: https://github.com/swar/nba_api.
 
 * Part 5 uses team game results from the leaguegamefinder module and its class to call box score stats for teams, then shows how to build a logistic regression model using sklearn.
 
-## Project 3: Climate Change Data Analysis in R
+## Project 3: [Climate Change Data Analysis in R](https://github.com/Russmar14/STA-518-Climate-Change-Project)
 
 This project includes several datasets analyzing climate change data including sea ice coverage, greenhouse gas emissions, and temperatures over time. This entails the following procedures, completed in R:
 
