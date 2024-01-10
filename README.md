@@ -1,4 +1,4 @@
-# Russell Marvin's Data Science Portfolio (https://russmar14.github.io)
+# Russell Marvin's Data Science Portfolio
 
 ## Project 1: [Real Home Price](https://github.com/Russmar14/RealHomePrice)
 Full, up to date version found here: https://scholln.github.io/RealHomePrice/
