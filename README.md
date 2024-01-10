@@ -19,9 +19,9 @@ My introduction to nba_api, an api found here: https://github.com/swar/nba_api.
 
 * Part 2 explains how to use the  players module for game log data.
 
-* Part 3 shows how to use that data to create a plot using that data for a user-specified player.
+* Part 3 shows how to use that data to create a plot using that data for a user-specified player. Example plot ![here:](https://github.com/Russmar14/Russmar14.github.io/blob/main/images/Giannis_career_TS.png)
 
-* Part 4 shows how to use the teams module and allows a user to pick a team to compare win/loss record for vs each opponent it's faced.
+* Part 4 shows how to use the teams module and allows a user to pick a team to compare win/loss record for vs each opponent it's faced. Example plot ![here:](https://github.com/Russmar14/Russmar14.github.io/blob/main/images/Nets_W_L_chart.png)
 
 * Part 5 uses team game results from the leaguegamefinder module and its class to call box score stats for teams, then shows how to build a logistic regression model using sklearn.
 
